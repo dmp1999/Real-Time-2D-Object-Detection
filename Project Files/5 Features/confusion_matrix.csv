@@ -1,0 +1,13 @@
+Confusion Matrix,Beats Ear Buds Case,Spatula,Key,Wallet,Glass,Trimmer,Indian Candle Holder,Scissors,Spoon,Heart Candy,Hair Comb,Hair Comb Horizontal
+Beats Ear Buds Case,5,0,0,0,0,0,0,0,0,0,0,0
+Spatula,0,5,0,0,0,0,0,0,0,0,0,0
+Key,0,0,3,0,0,0,0,0,0,0,0,0
+Wallet,1,0,0,4,0,0,0,0,0,0,0,0
+Glass,0,0,0,0,5,0,0,0,0,0,0,0
+Trimmer,0,0,0,0,0,5,0,0,0,0,0,0
+Indian Candle Holder,0,0,0,0,0,0,4,0,1,0,0,0
+Scissors,0,0,0,0,0,0,0,4,0,1,0,0
+Spoon,0,0,0,0,0,0,0,0,5,0,0,0
+Heart Candy,0,0,0,0,0,0,0,0,0,5,0,0
+Hair Comb,0,0,0,0,0,0,0,0,0,1,4,0
+Hair Comb Horizontal,0,0,0,0,0,0,0,0,0,0,0,5
